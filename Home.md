@@ -14,9 +14,9 @@ In general signal(s) travel form Transmitting Node (Tx) to the Receiving Node (R
 This generally reduces the complexity of present day systems. As the information is exchanged/communicated between signals in space(Free Space), system resources can be used for other purpose, such as to analyze the information and to increase its graphical interface. In-fact space signal communication would greatly increases the speed of communication. About `20% - 30%` of time is saved in exchanging/processing the information between two nodes when compared with the existing system.
 
 1. Communication Establishment:
-  * * Tx : Unique Hashing Key is generated.
-  * * Unique Hashing Key is encoded and encapsulated with Tx Signal, and Transmitted to the designated Receiver with IP System over Secure Channel .
+    * Tx : Unique Hashing Key is generated.
+    * Unique Hashing Key is encoded and encapsulated with Tx Signal, and Transmitted to the designated Receiver with IP System over Secure Channel .
 
 2. During Communication : Exchange of Information.
-   *
+    *
   
