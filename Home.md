@@ -16,9 +16,10 @@ This generally reduces the complexity of present day systems. As the information
 More over this increases the Physical Layer[PHY] capabilities. This era of AI, where lower layer such as Physical Layer must be smart. So there is also need for increasing the Physical Layer[PHY] smartness by increasing the efficiency of Physical Layer Protocols.
 
 1. Communication Establishment:
+    * Tx ---> Rx
     * Tx : Unique Hashing Key is generated.
-    * Unique Hashing Key is encoded and encapsulated with Tx Signal, and Transmitted to the designated Receiver with IP System over Secure Channel .
+    * Unique Hashing Key is encoded and encapsulated with Transmitter (Tx) Signal, and Transmitted to the designated Receiver (Rx) with IP System over Secure Channel .
+    * Rx ---> Tx
 
 2. During Communication : Exchange of Information.
-    *
-  
+     *   Both Nodes, Tx and Rx starts transmitting Signals where Signal from Tx has Encoded Information and the Signal from Rx has `Null Information` encoded in empty bits. Simply: Tx node signal has `Unique Hashing Key/Id` along with `Some Information` and Rx node Signal with `Unique Hashing Key/ID` with `no` additional information but with `empty bits`, to receive the exchanged information from Tx.
