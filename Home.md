@@ -7,6 +7,7 @@
 Concept of exchanging the information between the Signal(s) when they interact in free space. 
 
 ![FreeSpaceCommunication](uploads/9d3ce2c8c313407c65c5a1b5f139207e/FreeSpaceCommunication.jpg)
+
 In general signal(s) travel form Transmitting Node (Tx) to the Receiving Node (Rx), as most of us knows. What if two signals (One Signal from Tx and other Signal form Rx ) interact in the Free-Space and exchange the information in free space rather than processing the information at the systems ends.
 
 
