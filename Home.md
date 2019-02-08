@@ -19,11 +19,15 @@ More over this increases the Physical Layer[PHY] capabilities. This era of AI, w
 
 1. Communication(and Authentication )  Establishment:
     * Tx : Unique Hashing Key is generated.
+
     * Tx ---> Rx
+
     * Unique Hashing Key is encoded and encapsulated with Transmitter (Tx) Signal, and Transmitted to the designated Receiver (Rx) with IP System over Secure Channel .
     * Rx ---> Tx
 
 2. During Communication : Exchange of Information.
      *   Both Nodes, Tx and Rx starts transmitting Signals where Signal from Tx has Encoded Information and the Signal from Rx has `Null Information` encoded in empty bits. 
+
      *   Simply: Tx node signal has `Unique Hashing Key/Id` along with `Some Information` and Rx node Signal with `Unique Hashing Key/ID` with `no` additional information but with `empty bits`, to receive the exchanged information from Tx.
+
       * Tx `<--->` Free Space `<--->` Rx
