@@ -2,7 +2,7 @@
 
 **Breif Concept/Idea.**
 
-When Signals Communicate in Free Space? - A free Space Signal COmmunication.
+**When Signals Communicate in Free Space?** - A free Space Signal COmmunication.
 
 Concept of exchanging the information between the Signal(s) when they interact in free space. 
 
